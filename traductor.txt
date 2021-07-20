@@ -1,0 +1,12 @@
+parrot:loro
+perro:dog
+mesa:table
+blue:azul
+silla:chair
+night:noche 
+persona:person
+nube:cloud
+llave:key
+rojo:red 
+negro:black 
+
